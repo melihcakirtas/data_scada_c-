@@ -1,0 +1,93 @@
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Al-Ba.exe.config
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Al-Ba.exe
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Al-Ba.pdb
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.Form1.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.Properties.Resources.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.exe
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.pdb
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.dmon.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.set.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.log.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\EasyModbus.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.csproj.CopyComplete
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al_Ba.help.resources
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.csproj.ResolveComReference.cache
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\PdfSharp.Charting.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\PdfSharp.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\PdfSharp.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\PdfSharp.Charting.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Google.Protobuf.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\MySql.Data.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Renci.SshNet.dll
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Google.Protobuf.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\MySql.Data.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\bin\Debug\Renci.SshNet.xml
+C:\Users\MSI\source\repos\Al-Ba\Al-Ba\obj\Debug\Al-Ba.csprojAssemblyReference.cache
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Al-Ba.exe.config
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Al-Ba.exe
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Al-Ba.pdb
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Google.Protobuf.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\MySql.Data.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\PdfSharp.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Renci.SshNet.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Google.Protobuf.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\MySql.Data.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\PdfSharp.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\Renci.SshNet.xml
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.csproj.ResolveComReference.cache
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.dmon.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.Form1.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.help.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.log.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.Properties.Resources.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al_Ba.set.resources
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.csproj.GenerateResource.cache
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.csproj.CoreCompileInputs.cache
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.csproj.CopyComplete
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.exe
+C:\Users\Melih\Desktop\HMI_SCADA_TCP_IP-master\Al-Ba\obj\Debug\Al-Ba.pdb
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Al-Ba.exe.config
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Al-Ba.exe
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Al-Ba.pdb
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\BouncyCastle.Crypto.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Google.Protobuf.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\MySql.Data.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Newtonsoft.Json.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\PdfSharp.Charting.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\PdfSharp.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Renci.SshNet.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Google.Protobuf.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\MySql.Data.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Newtonsoft.Json.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\PdfSharp.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\PdfSharp.Charting.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\Renci.SshNet.xml
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\de\PdfSharp.resources.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.csproj.ResolveComReference.cache
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.dmon.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.Form1.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.help.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.log.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.Properties.Resources.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.set.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.csproj.GenerateResource.cache
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.csproj.CoreCompileInputs.cache
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.csproj.CopyComplete
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.exe
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.pdb
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al_Ba.reset.resources
+D:\ALBA ELEKTRONİK\PROJELER\PLC-DATA-SCADA\Al-Ba\obj\Debug\Al-Ba.csprojAssemblyReference.cache
